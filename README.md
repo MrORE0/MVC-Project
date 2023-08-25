@@ -1,2 +1,2 @@
 # SchoolDB
-This is a UI that lets students and teachers to interact with the schools database on different levels depending on their access level.
+Basically this is a UI for the schools database that lets students and teachers interact with the database on different levels depending on their access.
