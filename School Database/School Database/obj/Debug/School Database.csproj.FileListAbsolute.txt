@@ -1,0 +1,25 @@
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\bin\Debug\School Database.exe
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\bin\Debug\School Database.exe.config
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School_Database.CustomTxtBox.resources
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School_Database.Log_In.resources
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School_Database.Properties.Resources.resources
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School_Database.TeacherView.resources
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School Database.csproj.GenerateResource.cache
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School Database.csproj.CoreCompileInputs.cache
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School Database.exe
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School Database.pdb
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\bin\Debug\School Database.pdb
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School Database.csproj.AssemblyReference.cache
+C:\Users\merti\OneDrive\Работен плот\School Project\School Database\School Database\obj\Debug\School_Database.Repository.resources
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\bin\Debug\School Database.exe.config
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\bin\Debug\School Database.exe
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\bin\Debug\School Database.pdb
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School_Database.CustomTxtBox.resources
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School_Database.Log_In.resources
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School_Database.Properties.Resources.resources
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School_Database.Repository.resources
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School_Database.TeacherView.resources
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School Database.csproj.GenerateResource.cache
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School Database.csproj.CoreCompileInputs.cache
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School Database.exe
+C:\Users\merti\OneDrive\Работен плот\School Project - Copy exeTest\School Database\School Database\obj\Debug\School Database.pdb
